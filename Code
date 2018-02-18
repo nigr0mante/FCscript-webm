@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       FCscript
-// @version    0.2
+// @version    0.3
 // @description  muestra videos de gfycat.com, mediacru.sh y cualquier .webm
 // @include    https://www.forocoches.com/foro/*
 // @require        http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
